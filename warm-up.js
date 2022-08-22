@@ -1,5 +1,5 @@
 function isInteger (num) {
-    return Number.isInteger(2);
+    return Number.isInteger();
 }
 
 console.log(isInteger('hamburger'))
